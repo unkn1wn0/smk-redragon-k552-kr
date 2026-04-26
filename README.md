@@ -2,10 +2,8 @@
 
 This project documents the process of porting SMK to the Redragon K552-KR, which uses a BYK901 (SinoWealth SH68F90-family) MCU.
 
-> Full documentation (progress, notes, diagrams):
-> https://www.notion.so/Porting-SMK-Small-Mechanical-Keyboard-Firmware-on-the-Redragon-K552-KR-34e109dc4528801fb0e7f88505e2872b?source=copy_link
+> Full documentation (progress, notes, diagrams) [here](https://www.notion.so/Porting-SMK-Small-Mechanical-Keyboard-Firmware-on-the-Redragon-K552-KR-34e109dc4528801fb0e7f88505e2872b?source=copy_link)
 
----
 
 ## Current Status
 
@@ -14,7 +12,6 @@ This project documents the process of porting SMK to the Redragon K552-KR, which
 * Partial hardware validation completed
 * Firmware bring-up in progress
 
----
 
 ## Goals
 
@@ -22,7 +19,6 @@ This project documents the process of porting SMK to the Redragon K552-KR, which
 * Otherwise, document full matrix for MCU replacement
 * Provide a reproducible workflow for similar keyboards
 
----
 
 ## Acknowledgements
 
